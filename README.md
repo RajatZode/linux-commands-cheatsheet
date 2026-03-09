@@ -39,6 +39,6 @@ ping google.com → Test connectivity
 
 ## Useful Commands
 
-whoami → Show current user
-history → Show command history
-cat file.txt → Read file
+whoami → Show current user 
+history → Show command history 
+cat file.txt → Read file 
